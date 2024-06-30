@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaan25&label=Profile%20views&color=0e75b6&style=flat" alt="khaan25" /> </p>
 
-- 🔭 I’m currently working on [Venn Solution](https://vennsol.pk/)
-
 - 🌱 I’m currently learning **ReactJS, NextJS, TailwindCSS, MUI, Redux, MSSQL, NodeJS, MySQL, Strapi**
 
 - 👨‍💻 All of my projects are available at [http://zia.vennsol.pk/](http://zia.vennsol.pk/)
