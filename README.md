@@ -1,12 +1,18 @@
-<img src="https://v2-zzia.vercel.app/dp.jpg" width="110" style="border-radius:50%" />
+<img src="/image.png" width="110" />
 
 # Zia Ur Rehman Khan
 
 Frontend Engineer · Design Engineering · Lahore, PK
 
-I design and build interfaces with a focus on interaction quality, motion, and the small details that make products feel right. Currently working with startups — from early-stage to YC-backed — turning ideas into shipped products.
+---
 
-2nd place out of 4,700 at [OSS.GG Hackathon](https://oss.gg). Collaborated with engineers from Apple and Wish.
+#### About
+
+20-year-old developer from Pakistan transitioning into design engineering. I care about how things feel — the weight of a scroll animation, the timing of a page transition, the space between elements. I've shipped products with early-stage and [YC-backed](https://www.ycombinator.com) startups, collaborated with engineers from Apple and Wish, and placed 2nd out of 4,700 at the [OSS.GG Hackathon](https://oss.gg).
+
+When I'm not building, I'm playing badminton, football, or Fortnite.
+
+→ [More about me](https://v2-zzia.vercel.app/about)
 
 ---
 
@@ -28,6 +34,8 @@ I design and build interfaces with a focus on interaction quality, motion, and t
 | [Hilink](https://v2-zzia.vercel.app/projects/hilink) | AI-assisted LinkedIn post generator and scheduler |
 | [Beleger](https://v2-zzia.vercel.app/projects/beleger) | Digital receipt management platform |
 
+→ [View all projects](https://v2-zzia.vercel.app/projects)
+
 #### Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://v2-zzia.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ziawebdev) [![Twitter](https://img.shields.io/badge/Twitter-000?style=flat&logo=x&logoColor=white)](https://twitter.com/zia_webdev) [![Book a Call](https://img.shields.io/badge/Book_a_Call-000?style=flat&logo=googlecalendar&logoColor=white)](https://cal.com/ziacodes/quick-discovery-call) [![Email](https://img.shields.io/badge/ziaurzai@gmail.com-000?style=flat&logo=gmail&logoColor=EA4335)](mailto:ziaurzai@gmail.com)
+<a href="https://v2-zzia.vercel.app"><img src="https://cdn.simpleicons.org/vercel/000/fff" width="22" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/ziawebdev"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/zia_webdev"><img src="https://cdn.simpleicons.org/x/000/fff" width="22" alt="Twitter" /></a>&nbsp;&nbsp;&nbsp;<a href="https://cal.com/ziacodes/quick-discovery-call"><img src="https://cdn.simpleicons.org/googlecalendar" width="22" alt="Book a Call" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:ziaurzai@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" alt="Email" /></a>
