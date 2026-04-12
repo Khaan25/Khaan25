@@ -46,10 +46,16 @@ When I'm not building, I'm playing badminton, football, or Fortnite.
 
 #### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=khaan25&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=8b949e&icon_color=3aaf82&title_color=e6edf3" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khaan25&hide_border=true&background=0d1117&ring=3aaf82&fire=3aaf82&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=8b949e&dates=484f58" width="48%" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=khaan25&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=8b949e&icon_color=3aaf82&title_color=e6edf3&cache_seconds=86400&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khaan25&show_icons=true&hide_title=true&hide_border=true&cache_seconds=86400" width="48%" alt="GitHub Stats" />
+</picture>
+<img src="https://streak-stats.demolab.com?user=khaan25&hide_border=true&background=0d1117&ring=3aaf82&fire=3aaf82&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=8b949e&dates=484f58" width="48%" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaan25&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=e6edf3" width="36%" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khaan25&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=e6edf3&cache_seconds=86400&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaan25&layout=compact&hide_title=true&hide_border=true&cache_seconds=86400" width="36%" alt="Top Languages" />
+</picture>
 
 #### Contribution Snake
 
