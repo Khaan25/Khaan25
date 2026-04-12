@@ -2,7 +2,7 @@
 
 # Zia Ur Rehman Khan
 
-Frontend Engineer · Design Engineering · Lahore, PK
+Frontend Engineer · Design Engineering · Rawalpindi, PK
 
 <img src="https://komarev.com/ghpvc/?username=khaan25&style=flat-square&color=1a1a1a&label=profile+views" alt="Profile views" />
 
