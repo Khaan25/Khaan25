@@ -1,44 +1,33 @@
-<h1 align="center">Hi 👋, I'm Zia Ur Rehman Khan</h1>
-<h3 align="center">A Passionate Self-taught Frontend Developer from Pakistan.</h3>
+<img src="https://v2-zzia.vercel.app/dp.jpg" width="110" style="border-radius:50%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaan25&label=Profile%20views&color=0e75b6&style=flat" alt="khaan25" /> </p>
+# Zia Ur Rehman Khan
 
-- 🌱 I’m currently learning **ReactJS, NextJS, TailwindCSS, MUI, Redux, MSSQL, NodeJS, MySQL, Strapi**
+Frontend Engineer · Design Engineering · Lahore, PK
 
-- 👨‍💻 All of my projects are available at [http://zia.vennsol.pk/](http://zia.vennsol.pk/)
+I design and build interfaces with a focus on interaction quality, motion, and the small details that make products feel right. Currently working with startups — from early-stage to YC-backed — turning ideas into shipped products.
 
-- 📝 I regularly write articles on [http://zia.vennsol.pk/blogs](http://zia.vennsol.pk/blogs)
+2nd place out of 4,700 at [OSS.GG Hackathon](https://oss.gg). Collaborated with engineers from Apple and Wish.
 
-- 💬 Ask me about **ReactJS, NextJS, NodeJS, Strapi and expert in MSSQL**
+---
 
-- 📫 How to reach me **zia@vennsol.pk**
+#### Now
 
-- ⚡ Fun fact **Food Lover, Learning new things**
+- Building [Hilink](https://v2-zzia.vercel.app/projects/hilink) — AI-powered LinkedIn post scheduler
+- Crafting cinematic web experiences with scroll-driven animations and video integration
+- Transitioning deeper into design engineering
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zia-ur-rehman-khan-professional-frontend-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zia-ur-rehman-khan-professional-frontend-developer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ziacodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ziacodes" height="30" width="40" /></a>
-</p>
+#### Stack
 
-### ⚔ Weapons of Choice
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Node.js` `GSAP` `Framer Motion` `PostgreSQL` `Supabase` `Sanity` `Stripe`
 
+#### Selected Work
 
-<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-#
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+| Project | What it is |
+|---|---|
+| [Erwin Gepting](https://v2-zzia.vercel.app/projects/erwin-gepting) | Cinematic portfolio for a Hamburg-based Director of Photography |
+| [Hilink](https://v2-zzia.vercel.app/projects/hilink) | AI-assisted LinkedIn post generator and scheduler |
+| [Beleger](https://v2-zzia.vercel.app/projects/beleger) | Digital receipt management platform |
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Ziacodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ziacodes" /></a><a href="https://ko-fi.com/ZiaCodes"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ZiaCodes" /></a></p><br><br>
+#### Links
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaan25&show_icons=true&locale=en&layout=compact" alt="khaan25" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaan25&show_icons=true&locale=en" alt="khaan25" /></p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://v2-zzia.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ziawebdev) [![Twitter](https://img.shields.io/badge/Twitter-000?style=flat&logo=x&logoColor=white)](https://twitter.com/zia_webdev) [![Book a Call](https://img.shields.io/badge/Book_a_Call-000?style=flat&logo=googlecalendar&logoColor=white)](https://cal.com/ziacodes/quick-discovery-call) [![Email](https://img.shields.io/badge/ziaurzai@gmail.com-000?style=flat&logo=gmail&logoColor=EA4335)](mailto:ziaurzai@gmail.com)
