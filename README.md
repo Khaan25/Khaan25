@@ -4,7 +4,7 @@
 
 # Zia Ur Rehman Khan
 
-Design Engineer · Frontend · Rawalpindi, PK
+Design Engineer · Frontend · Lahore, PK
 
 <a href="https://ziaa.me"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=900&color=3AAF82&vCenter=true&width=520&height=32&lines=Design+systems+on+Radix+UI+and+Base+UI;Interfaces+that+feel+fast+and+considered;Next.js%2C+React+and+TypeScript;Micro-interactions%2C+CSS-only+where+possible" alt="Typing intro" /></a>
 
